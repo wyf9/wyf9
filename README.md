@@ -28,8 +28,8 @@ More contacts: [Here](https://wyf9.top/#/contact)
 
 ## GitHub Stats
 
-![wyf9's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wyf9&count_private=true&show_icons=true&theme=solarized-dark&cache_seconds=14400&hide_border=true)
+![wyf9's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wyf9&count_private=true&show_icons=true&theme=solarized-dark&cache_seconds=14400&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![wyf9's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyf9&count_private=true&show_icons=true&theme=solarized-dark&cache_seconds=14400&hide_border=true)
 
-> Stats counter from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+> Stats counter from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
