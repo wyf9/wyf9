@@ -7,6 +7,7 @@ Programming languages *(order by time)*:
 - **Python**
 - C++
 - Javascript
+- ???
 
 Spoken languages:
 - **Chinese**
@@ -32,4 +33,8 @@ More contacts: [Here](https://wyf9.top/#/contact)
 
 ![wyf9's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyf9&count_private=true&show_icons=true&theme=solarized-dark&cache_seconds=14400&hide_border=true)
 
-> Stats counter from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
+> *Stats counter from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+---
+
+> My GPG Key Fingerprint: `0A57 3F43 0E6D 56EC 34B8  F6B7 B126 9660 81BF DBE4` / [Download Public Key](https://github.com/wyf9.gpg)
