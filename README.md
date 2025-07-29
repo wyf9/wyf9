@@ -9,6 +9,13 @@ Programming languages *(order by time)*:
 - Javascript
 - ???
 
+<details>
+  <summary>More Skills</summary>
+
+  [![My Skills](https://skillicons.dev/icons?i=bash,cloudflare,discord,flask,git,github,linux,md,nginx,py,ubuntu,vscode,workers)](https://skillicons.dev)
+
+</details>
+
 Spoken languages:
 - **Chinese**
 - English *(a little)*
