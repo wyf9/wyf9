@@ -26,6 +26,8 @@ Also, I am a core member of [SiiWay Team](https://github.com/siiway)!
 
 ## Links *(only in Chinese)*
 
+My Blog: [wyf9.top](https://wyf9.top)
+
 My status: [sleepy.wyf9.top](https://sleepy.wyf9.top)
 
 More contacts: [Here](https://wyf9.top/#/contact)
@@ -44,4 +46,4 @@ More contacts: [Here](https://wyf9.top/#/contact)
 
 ---
 
-> My GPG Key Fingerprint: `0A57 3F43 0E6D 56EC 34B8  F6B7 B126 9660 81BF DBE4` / [Download Public Key](https://github.com/wyf9.gpg)
+> My GPG Key Fingerprint: `0A57 3F43 0E6D 56EC 34B8  F6B7 B126 9660 81BF DBE4` / [Download Public GPG Key](https://github.com/wyf9.gpg) / [Download Public SSH Keys](https://github.com/wyf9.keys)
