@@ -28,11 +28,11 @@ Also, I am a core member of [SiiWay Team](https://github.com/siiway)!
 
 My Blog: [wyf9.top](https://wyf9.top)
 
-My status: [sleepy.wyf9.top](https://sleepy.wyf9.top)
+<!-- My status: [sleepy.wyf9.top](https://sleepy.wyf9.top) -->
 
-More contacts: [Here](https://wyf9.top/#/contact)
+More contacts: [Here](https://wyf9.top/t/c)
 
-[My profile in SiiWay Team](https://siiway.top/member/wyf9.html)
+[My profile in SiiWay Team](https://siiway.top/members/wyf9)
 
 ---
 
@@ -46,4 +46,4 @@ More contacts: [Here](https://wyf9.top/#/contact)
 
 ---
 
-> My GPG Key Fingerprint: `0A57 3F43 0E6D 56EC 34B8  F6B7 B126 9660 81BF DBE4` / [Download Public GPG Key](https://github.com/wyf9.gpg) / [Download Public SSH Keys](https://github.com/wyf9.keys)
+> My GPG Key Fingerprint: [**`0A573F430E6D56EC34B8F6B7B126966081BFDBE4`**](https://keys.openpgp.org/search?q=0A573F430E6D56EC34B8F6B7B126966081BFDBE4) / [Download Public **GPG** Key](https://github.com/wyf9.gpg) / [Download Public **SSH** Keys](https://github.com/wyf9.keys)
