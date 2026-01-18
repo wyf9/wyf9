@@ -36,13 +36,15 @@ More contacts: [Here](https://wyf9.top/t/c)
 
 ---
 
-## GitHub Stats
+## Stats
 
-![wyf9's GitHub Stats](https://gh-readme-stats.siiway.top/api?username=wyf9&count_private=true&show_icons=true&theme=solarized-dark&cache_seconds=14400&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![wyf9's GitHub Stats](https://gh-readme-stats.siiway.top/api?username=wyf9&count_private=true&show_icons=true&theme=solarized-dark&cache_seconds=3600&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![wyf9's Top Langs](https://gh-readme-stats.siiway.top/api/top-langs/?username=wyf9&count_private=true&show_icons=true&theme=solarized-dark&cache_seconds=14400&hide_border=true)
+![wyf9's Top Langs](https://gh-readme-stats.siiway.top/api/top-langs/?username=wyf9&count_private=true&show_icons=true&theme=solarized-dark&cache_seconds=3600&hide_border=true)
 
-> *Stats counter from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), self-deployed instance at `gh-readme-stats.siiway.top`*
+![Hackatime Stats](https://gh-readme-stats.siiway.top/api/wakatime?username=11095&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats+(last+year)&layout=compact&cache_seconds=3600&langs_count=8&theme=solarized-dark&hide_border=true)
+
+> *Stats counter from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), with self-deployed instance*
 
 ---
 
