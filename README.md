@@ -3,7 +3,6 @@
 I'm a 15-year-old student from Guizhou, China.
 
 Programming languages *(order by time)*:
-- Batch
 - **Python**
 - C++
 - Javascript / Typescript
@@ -12,7 +11,7 @@ Programming languages *(order by time)*:
 <details>
   <summary>More Skills</summary>
 
-  [![My Skills](https://skillicons.dev/icons?i=bash,cloudflare,discord,fastapi,git,github,linux,md,nginx,py,ts,ubuntu,vscode,workers)](https://skillicons.dev)
+  <!-- [![My Skills](https://skillicons.dev/icons?i=bash,cloudflare,discord,fastapi,git,github,linux,md,nginx,py,ts,ubuntu,vscode,workers)](https://skillicons.dev) -->
 
 </details>
 
