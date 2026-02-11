@@ -1,3 +1,5 @@
+> *ignore the profile pfp here is wyf9. [original](https://github.com/user-attachments/assets/875057e0-bd85-468e-85af-7e0a088f40af)*
+
 ## Hello there!
 
 I'm a 15-year-old student from Guizhou, China.
