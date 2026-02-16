@@ -4,24 +4,24 @@
 
 I'm a 15-year-old student from Guizhou, China.
 
-Programming languages *(order by time)*:
+<!-- Programming languages *(order by time)*:
 - **Python**
 - C++
 - Javascript / Typescript
-- ...
+- ... -->
 
-<details>
+<!-- <details>
   <summary>More Skills</summary>
 
-  <!-- [![My Skills](https://skillicons.dev/icons?i=bash,cloudflare,discord,fastapi,git,github,linux,md,nginx,py,ts,ubuntu,vscode,workers)](https://skillicons.dev) -->
+  [![My Skills](https://skillicons.dev/icons?i=bash,cloudflare,discord,fastapi,git,github,linux,md,nginx,py,ts,ubuntu,vscode,workers)](https://skillicons.dev)
 
-</details>
+</details> -->
 
-Spoken languages:
+<!-- Spoken languages:
 - **Chinese**
-- English *(a little)*
+- English *(a little)* -->
 
-Also, I am a core member of [SiiWay Team](https://github.com/siiway)!
+Also, i'm a core member of [SiiWay Team](https://github.com/siiway)!
 
 ---
 
@@ -31,9 +31,9 @@ My Blog: [wyf9.top](https://wyf9.top)
 
 <!-- My status: [sleepy.wyf9.top](https://sleepy.wyf9.top) -->
 
-More contacts: [Here](https://wyf9.top/t/c)
+More contacts: [Here](https://wyf9.top/c)
 
-[My profile in SiiWay Team](https://siiway.top/members/wyf9)
+[My profile in SiiWay Team](https://siiway.org/members/wyf9)
 
 ---
 
